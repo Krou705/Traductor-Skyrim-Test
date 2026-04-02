@@ -1,5 +1,7 @@
 # Traductor Skyrim (Test)
 
+![Traductor Skyrim](https://i.postimg.cc/wx0ffVQR/image.png)
+
 **Traductor Skyrim** es un programa de traducción en **fase de prueba**, creado con ayuda de **Inteligencia Artificial**. No se requiere experiencia en programación para usarlo. Actualmente permite traducir texto de **inglés a español**.
 
 ---
