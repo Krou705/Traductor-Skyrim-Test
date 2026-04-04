@@ -1,1 +1,2 @@
 Aqui dejare versiones de prueba comprimidas con los archivos necearios, solo reemplazar con el repositorio completo
+o versiones anteriores para recompilar al reemplzarlos con las del proyecto
